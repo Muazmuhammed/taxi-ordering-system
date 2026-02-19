@@ -1,0 +1,8 @@
+Taxi dbu77 (Destination: markan) departed with passengers:
+  - kb (Destination: markan)
+Departure completed.
+
+Taxi dbu77 (Destination: markan) departed with passengers:
+  - kidus (Destination: markan)
+Departure completed.
+
